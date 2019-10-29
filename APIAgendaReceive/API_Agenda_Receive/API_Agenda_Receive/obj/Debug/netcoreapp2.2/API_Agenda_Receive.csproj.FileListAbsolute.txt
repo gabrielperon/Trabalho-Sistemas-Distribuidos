@@ -1,0 +1,17 @@
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\bin\Debug\netcoreapp2.2\API_Agenda_Receive.deps.json
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\bin\Debug\netcoreapp2.2\API_Agenda_Receive.runtimeconfig.json
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\bin\Debug\netcoreapp2.2\API_Agenda_Receive.runtimeconfig.dev.json
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\bin\Debug\netcoreapp2.2\API_Agenda_Receive.dll
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\obj\Debug\netcoreapp2.2\API_Agenda_Receive.csprojAssemblyReference.cache
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\obj\Debug\netcoreapp2.2\API_Agenda_Receive.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\obj\Debug\netcoreapp2.2\API_Agenda_Receive.RazorAssemblyInfo.cache
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\obj\Debug\netcoreapp2.2\API_Agenda_Receive.RazorAssemblyInfo.cs
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\obj\Debug\netcoreapp2.2\API_Agenda_Receive.AssemblyInfoInputs.cache
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\obj\Debug\netcoreapp2.2\API_Agenda_Receive.AssemblyInfo.cs
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\obj\Debug\netcoreapp2.2\API_Agenda_Receive.RazorTargetAssemblyInfo.cache
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\bin\Debug\netcoreapp2.2\API_Agenda_Receive.pdb
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\obj\Debug\netcoreapp2.2\API_Agenda_Receive.dll
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\obj\Debug\netcoreapp2.2\API_Agenda_Receive.pdb
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\bin\Debug\netcoreapp2.2\Core.dll
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\API_Agenda_Receive\obj\Debug\netcoreapp2.2\API_Agenda_Receive.csproj.CopyComplete

@@ -1,0 +1,16 @@
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\Core\bin\Debug\netcoreapp2.2\Core.deps.json
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\Core\bin\Debug\netcoreapp2.2\Core.dll
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\Core\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\Core\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\Core\bin\Debug\netcoreapp2.2\System.Data.SqlClient.dll
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\Core\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\Core\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\Core\bin\Debug\netcoreapp2.2\System.Data.SqlClient.xml
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\Core\obj\Debug\netcoreapp2.2\Core.csprojAssemblyReference.cache
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\Core\obj\Debug\netcoreapp2.2\Core.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfoInputs.cache
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfo.cs
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\Core\obj\Debug\netcoreapp2.2\Core.csproj.CopyComplete
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\Core\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\Core\obj\Debug\netcoreapp2.2\Core.dll
+C:\Users\gabriel.ferreira.kognit\Desktop\APIAgendaReceive\API_Agenda_Receive\Core\obj\Debug\netcoreapp2.2\Core.pdb

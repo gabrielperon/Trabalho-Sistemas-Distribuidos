@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gabriel.ferreira.kognit\\Desktop\\APIAgendaReceive\\API_Agenda_Receive\\Core\\Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gabriel.ferreira.kognit\\Desktop\\APIAgendaReceive\\API_Agenda_Receive\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gabriel.ferreira.kognit\\Desktop\\APIAgendaReceive\\API_Agenda_Receive\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\gabriel.ferreira.kognit\\Desktop\\APIAgendaReceive\\API_Agenda_Receive\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\gabriel.ferreira.kognit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel.ferreira.kognit\\Desktop\\APIAgendaReceive\\API_Agenda_Receive\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gabriel.ferreira.kognit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.kognit.systems/nuget": {},
+          "https://packages.nuget.org/v1/FeedService.svc/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
